@@ -5,11 +5,11 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.summary      = "AlertTransition is a extensible library for making view controller transitions, especially for alert transitions."
 
-  s.homepage     = "https://github.com/loopeer/AlertTransition"
+  s.homepage     = "https://github.com/o-zaporozhchenko/AlertTransition"
   s.author       = { "HanShuai" => "hanshuai@loopeer.com" }
   s.swift_version = '4.0'
 
-  s.source       = { :git => "https://github.com/loopeer/AlertTransition.git", :tag => s.version }
+  s.source       = { :git => "https://github.com/o-zaporozhchenko/AlertTransition.git", :tag => s.version }
 
   s.requires_arc = true
   s.ios.deployment_target  = "8.0"
