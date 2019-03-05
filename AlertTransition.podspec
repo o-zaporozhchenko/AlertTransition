@@ -7,6 +7,7 @@ Pod::Spec.new do |s|
 
   s.homepage     = "https://github.com/loopeer/AlertTransition"
   s.author       = { "HanShuai" => "hanshuai@loopeer.com" }
+  s.swift_version = '4.0'
 
   s.source       = { :git => "https://github.com/loopeer/AlertTransition.git", :tag => s.version }
 
